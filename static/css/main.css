@@ -16,6 +16,21 @@ html,button,input,select,textarea {
     color: #333;
 }
 
+.headshot_wrapper {
+    display: inline;
+    float: right;
+    width: 100%;
+    max-width: 33%;
+    height: auto;
+    margin: 0 auto;
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.headshot {
+    height: auto;
+}
+
 ::-moz-selection {
     background: #b3d4fc;
     text-shadow: none;
